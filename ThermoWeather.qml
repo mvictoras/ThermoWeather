@@ -35,7 +35,7 @@ Item {
     id: app
     width: 1280; height: 800
 
-    property string key: "7e75dae9ef063733131202"
+    property string key: "YOUR_KEY_GOES_HERE"
 
 
     property string activeCity: "Chicago"
